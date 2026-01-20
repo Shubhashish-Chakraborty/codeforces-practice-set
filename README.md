@@ -13,5 +13,8 @@
 | 5 | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) |  |
 | 6 | [Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A) |  |
 | 7 | [Beautiful Year](https://codeforces.com/contest/271/problem/A) |  |
+| 8 | [Sum](https://codeforces.com/contest/1742/problem/A) |  |
+| 9 | [Lucky?](https://codeforces.com/contest/1676/problem/A) |  |
+| 9 | [A+B?](https://codeforces.com/contest/1772/problem/A) |  |
 
 Contributions are welcome - feel free to open a PR to add or update solutions.
