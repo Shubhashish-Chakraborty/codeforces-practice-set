@@ -15,6 +15,6 @@
 | 7 | [Beautiful Year](https://codeforces.com/contest/271/problem/A) |  |
 | 8 | [Sum](https://codeforces.com/contest/1742/problem/A) |  |
 | 9 | [Lucky?](https://codeforces.com/contest/1676/problem/A) |  |
-| 9 | [A+B?](https://codeforces.com/contest/1772/problem/A) |  |
+| 10 | [A+B?](https://codeforces.com/contest/1772/problem/A) |  |
 
 Contributions are welcome - feel free to open a PR to add or update solutions.
