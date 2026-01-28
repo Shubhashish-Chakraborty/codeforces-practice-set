@@ -6,8 +6,8 @@
 
 | S.No | Problem Name | Solution |
 | ---: | --- | --- |
-| 1 | [Square?](https://codeforces.com/contest/2167/problem/A) | **[C++](./cpp/01_square.cpp)**, **[Python](./python/01_square.py)** |
-| 2 | [ASCII Art Contest](https://codeforces.com/contest/2172/problem/A) |  |
+| 1 | [Square?](https://codeforces.com/contest/2167/problem/A) | **[c++](./cpp/01_square.cpp)**, **[py](./python/01_square.py)**, **[c](./c/01_square.c)** |
+| 2 | [ASCII Art Contest](https://codeforces.com/contest/2172/problem/A) | **[c++](./cpp/03_minimize.cpp)**, **[py](./python/03_minimize.py)**, **[c](./c/03_minimize.c)** |
 | 3 | [Minimize!](https://codeforces.com/contest/2009/problem/A) |  |
 | 4 | [Watermelon](https://codeforces.com/contest/4/problem/A) |  |
 | 5 | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) |  |
