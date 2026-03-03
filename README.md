@@ -1,4 +1,4 @@
-# Codeforces Beginner Friendly Problems
+# Codeforces Practice Set
 
 ### A curated list of Codeforces problems to practice. Each row links to the problem statement and a reference solution. *(when available)*
 
